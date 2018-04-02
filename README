@@ -1,9 +1,49 @@
+                      /\
+					 /  \
+                    /    \
+                   /      \
+      ____________/        \_____________
+	  \                                 /
+	   \                               /
+	    \                             /
+		 \                           /
+		  \                         /
+		   \                       /
+		   /                       \
+		  /                         \
+		 /                           \
+		/                             \
+	   /                               \
+	  /____________          ___________\
+	               \        /
+					\      /
+					 \    /
+					  \  /
+					   \/
+					  
+ 	
+	
 * Created by Hany *
+	
+Task Maker is an App in which we can create our own brand new To Do List with some attractive features like setting
+reminders for specific tasks, getting notification for our reminder, setting priorities of tasks, striking off completed
+task, deletion of task automatically after one hour of completion, sorting of all the tasks according to our priority and
+many more...
+
 Task Maker App (To Do App)
-Add
-Sort
-Set Priority
-Strike Off
-Due date
-Delete
-Reminder
+
+Features Included:
+
+-Adding Task
+-Sorting task
+-Priority Setting
+-Strike Off Completion
+-Setting Due date 
+-Deleting Task
+-Setting Reminder
+
+![Demo](https://user-images.githubusercontent.com/38000332/38206157-f6824622-36c6-11e8-94c7-01862af38f01.gif)
+
+
+![Demo](https://user-images.githubusercontent.com/38000332/38206170-02121260-36c7-11e8-9a74-163a576f5f2a.gif)
+
